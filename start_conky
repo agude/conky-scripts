@@ -1,0 +1,5 @@
+#!/bin/bash
+
+conky -d;
+
+exit $EXIT_SUCCESS
